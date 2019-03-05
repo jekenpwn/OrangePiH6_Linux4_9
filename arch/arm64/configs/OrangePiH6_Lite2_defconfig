@@ -1594,8 +1594,8 @@ CONFIG_XRADIO_DEBUGFS=y
 # CONFIG_XR829_WLAN is not set
 # CONFIG_USB_NET_RNDIS_WLAN is not set
 CONFIG_BCMDHD=m
-CONFIG_BCMDHD_FW_PATH="/lib/firmware/ap6256/fw_bcm43456c5_ag"
-CONFIG_BCMDHD_NVRAM_PATH="/lib/firmware/ap6256/nvram.txt"
+CONFIG_BCMDHD_FW_PATH="/lib/firmware/ap6255/fw_bcmdhd.bin"
+CONFIG_BCMDHD_NVRAM_PATH="/lib/firmware/ap6255/nvram.txt"
 CONFIG_BCMDHD_SDIO=y
 CONFIG_BCMDHD_OOB=y
 # CONFIG_BCMDHD_SDIO_IRQ is not set
